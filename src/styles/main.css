@@ -1,0 +1,55 @@
+@media (max-width: 340px) {
+  .outerDiv {
+    padding: 10px 15px;
+  }
+  .proProfileFixes {
+    font-size: 0.5rem;
+    padding: 0px;
+  }
+}
+
+.province-border{
+  display: flex;
+  justify-content: flex-start;
+  border-bottom: 2px solid #edf2f7;
+  width: 100%;
+}
+.primary-color{
+  color: '#2ec6d5'
+}
+.label-top{
+  --text-opacity: 1 !important;
+  font-size: 0.8rem !important;
+  color: rgba(160, 174, 192, var(--text-opacity)) !important
+
+}
+
+.invisible-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+body::-webkit-scrollbar {
+  width: 1px;               /* width of the entire scrollbar */
+}
+
+.scrollable-element {
+  scrollbar-width: none;
+}
+.w-100 {
+  width: 100%;
+}
+.pointer {
+  cursor: pointer;
+}
+
+.padding-bottom {
+  margin-bottom: -50px;
+}
+
+.row-title.expanded {
+  font-weight: bold;
+}
+
+.row-title.expanding {
+  font-weight: bold;
+}

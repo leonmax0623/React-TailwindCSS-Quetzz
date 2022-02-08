@@ -1,0 +1,56 @@
+.text-raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.text-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-gray {
+    color: #bcbcbc;
+}
+
+.text-light-gray {
+    color: #B1B1B1;
+}
+
+.text-fading {
+    color:#858585
+}
+
+.text-blue {
+    color: #008dff;
+}
+
+.text-light-blue {
+    color: #2EC6D5;
+}
+
+.text-red {
+    color: #ff808b;
+}
+
+.text-yellow {
+    color: #ffaa00;
+}
+
+.text-blue {
+    color: #3b65ef;
+}
+
+.text-green {
+    color: #6ece9d;
+}
+
+.leading-2\.4 {
+    line-height: 2.4;
+}
+
+.spacing-0 {
+    letter-spacing: 0;
+}
+
+.leading-4 {
+    line-height: 4;
+}
+
